@@ -1,6 +1,6 @@
 # 💻 Calet Devia
 
-👋 Hola, Soy Calet Devia Bermúdez, Ingeniero de Sistemas y Desarrollador Frontend, con experiencia en levantamiento de requerimientos, diseño de interfaces web, y coordinación entre clientes y desarrolladores adquirida durante mis prácticas internacionales en OMEX MX 🚀
+👋 Hola, Soy Calet Devia Bermúdez, Ingeniero de Sistemas y Desarrollador Frontend, con experiencia en documentación, diseño y desarrollo de proyectos web.
 
 ## 🔧 Tecnologías principales:
 
