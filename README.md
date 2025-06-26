@@ -4,7 +4,7 @@
 
 ## 🔧 Tecnologías principales:
 
-- **Lenguajes:** JavaScript, HTML, CSS
+- **Frontend:** React, JavaScript, HTML5 y CSS3
 - **Control de versiones:** Git & GitHub
 
 ## 🎨 Herramientas de diseño:
@@ -20,12 +20,6 @@
 ## 📂 Otras herramientas:
 
 - Notion | Trello | Microsoft Word | Excel | PowerPoint | Canva
-
-## 📌 Proyectos destacados:
-
-- [Miniproyectos-JS](https://github.com/Ledtius/JS-Miniproyectos) - Recopilación de pequeños proyectos en JS.
-- [CargaMax-Proyecto-TalentoTech](https://github.com/Ledtius/CargaMax-Proyecto-TalentoTech) - Proyecto web para Talento Tech.
-- [Portfolio-V3](https://github.com/Ledtius/Portfolio-V.3) - Mi portafolio web más reciente.
 
 ## 📫 Contáctame:
 
