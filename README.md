@@ -4,7 +4,7 @@
 
 ## 🔧 Tecnologías principales:
 
-- **Frontend:** React, JavaScript, HTML5 y CSS3
+- **Frontend:** React.js, JavaScript, HTML5 y CSS3
 - **Control de versiones:** Git & GitHub
 
 ## 🎨 Herramientas de diseño:
